@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+.fa{
+    color: rgb(208, 92, 9);
+}
+.part-box{
+    background-color: white;
+    padding: 20px 5px;
+    margin: 30px 0px;
+}
+span{
+    font-size: 12px;
+}
+.text{
+    margin: 20px 0px;
+}
+a{
+    border-bottom: 2px skyblue solid;
+}
+.box{
+    padding: 60px 0px;
+}
